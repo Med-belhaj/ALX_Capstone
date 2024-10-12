@@ -1,9 +1,12 @@
-Django==4.0.1
-djangorestframework==3.13.1
-mysqlclient==2.0.3
-django-cors-headers==3.10.1
-djangorestframework-simplejwt==5.0.0
-django-searchable-select==1.9.0
-redis==4.2.2  # Redis caching
-psycopg2-binary==2.9.3  
-django-environ==0.8.1  
+Django==5.1.1
+django-axes==7.0.0
+django-filter==24.3
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+drf-nested-routers==0.94.1
+mysqlclient==2.2.4
+PyMySQL==1.1.1
+sqlparse==0.5.1
+cryptography==43.0.1
+psycopg2-binary==2.9.3
+django-environ==0.8.1
